@@ -2,7 +2,7 @@
 A professional, fast, and intuitive medical management solution.
 
 🚀 Overview
-Ibn Sina Clinic Management System is a desktop application built with C# .NET Windows Forms. It is designed specifically for polyclinics and doctors to streamline their daily operations, from patient registration to automated appointment billing.
+Ibn Sina Clinic Management System is a desktop application built with C# .NET Windows Forms. It is designed specifically for polyclinics and doctors to streamline their daily operations—including patient registration, service pricing, and automated appointment billing.
 
 ✨ Key Features (For Business & Technical Users)
 1. Unified Service & Pricing Control
@@ -31,7 +31,7 @@ Download: Clone the repository to your machine.
 
 Open: Use Visual Studio to open the .sln file.
 
-Run: Press Start to see the system in action.
+Run: Press F5 or the Start button to see the system in action.
 
 👨‍💻 About the Developer
 Developed by Nadir Boumakel.
