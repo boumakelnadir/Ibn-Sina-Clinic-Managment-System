@@ -2,29 +2,30 @@
 A professional, fast, and intuitive medical management solution.
 
 🚀 Overview
-Ibn Sina Clinic Management System is a desktop application built with C# .NET Windows Forms. It is designed specifically for polyclinics and doctors to streamline their daily operations.
+Ibn Sina Clinic Management System is a desktop application built with C# .NET Windows Forms.
+It is designed specifically for polyclinics and doctors to streamline their daily operations—including patient registration, service pricing, and automated appointment billing.
 
-✨ Key Features
+✨ Key Features (For Business & Technical Users)
 1. Unified Service & Pricing Control
-This module allows you to define services and set their prices in DZD.
+Managing medical services is now easier than ever. This module allows you to define your services and set their prices in DZD.
 
-For Businesses: Easily update pricing without technical help.
+For Businesses: Easily update your clinic's pricing without technical help.
 
-For Developers: Demonstrates full CRUD functionality.
+For Developers: Demonstrates full CRUD (Create, Read, Update, Delete) functionality with dynamic data grids.
 
-2. Smart Appointment Engine
-It links patients with services and automatically calculates the cost.
+2. Smart Appointment Engine (Zero-Error Billing)
+This is the heart of the system. It links patients with services and automatically calculates the cost.
 
-Zero-Error Billing: When you select a service, the system fetches the price automatically.
+For Businesses: No more manual pricing errors. When you select a service, the system fetches the price automatically.
 
-Event-Driven: Uses SelectedIndexChanged to update the UI in real-time.
+For Developers: Uses Event-Driven Programming (SelectedIndexChanged) to query centralized data and update the UI in real-time.
 
 🛠️ Technical Strength
 Language: C# .NET.
 
 Architecture: Object-Oriented Programming (OOP) with a focus on data integrity.
 
-UI/UX: Clean, medical-themed interface.
+UI/UX: Clean, medical-themed interface designed for high-speed data entry.
 
 💻 How to Try the App
 Download: Clone the repository to your machine.
