@@ -1,5 +1,3 @@
-أبشر يا مهندس نذير، قمت بتعديل الروابط الآن لتتوافق مع مكان الصور الحالي داخل المجلد الذي قمت برفعه. هذا النص جاهز تماماً، فقط انسخه وضعه في ملف README.md وستظهر الصور فوراً.
-
 🏥 Ibn Sina Clinic Management System
 A professional, fast, and intuitive medical management solution.
 
