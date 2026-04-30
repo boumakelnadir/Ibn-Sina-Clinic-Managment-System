@@ -1,4 +1,4 @@
-🏥 Ibn Sina Clinic Management System
+# Ibn Sina Clinic Management System
 
 A professional, fast, and intuitive medical management solution.
 
